@@ -1,0 +1,7 @@
+scipy
+numpy
+pandas
+tqdm
+Flask
+implicit==0.6.1
+scikit_learn
